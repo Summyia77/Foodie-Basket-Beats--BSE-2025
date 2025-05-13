@@ -21,17 +21,26 @@ this app features two distinct panels:
 * **logout:** securely sign out of your user account.
 
 ## user panel user interface 📸
+![WhatsApp Image 2025-05-13 at 3 32 03 PM](https://github.com/user-attachments/assets/f991c6f9-8198-4743-8539-69513c9ae316)
+![WhatsApp Image 2025-05-13 at 3 32 04 PM](https://github.com/user-attachments/assets/f8d71b9d-448c-45a8-9360-a0b5c6fce1c6)
+![WhatsApp Image 2025-05-13 at 3 32 02 PM](https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677)
+![WhatsApp Image 2025-04-28 at 11 18 21 PM](https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d)
+![WhatsApp Image 2025-05-13 at 3 31 28 PM](https://github.com/user-attachments/assets/bcefabc4-bb26-4c32-a794-5c5448a89b46)
+![WhatsApp Image 2025-05-13 at 4 10 57 PM (1)](https://github.com/user-attachments/assets/c3a020f1-8a9f-42ba-b7a7-0e5d73aca1f8)
+![WhatsApp Image 2025-05-13 at 3 31 27 PM (2)](https://github.com/user-attachments/assets/dfbab4d9-8fb7-413e-bcdf-1f77ebbd591d)
+![WhatsApp Image 2025-05-13 at 3 32 07 PM (1)](https://github.com/user-attachments/assets/86674a23-b9a3-42c8-884c-17bdce7f54fa)
+![WhatsApp Image 2025-05-13 at 3 31 24 PM](https://github.com/user-attachments/assets/e48abe1d-18af-4573-8fdb-6ce9a9d0dc37)
+![WhatsApp Image 2025-05-13 at 3 32 05 PM](https://github.com/user-attachments/assets/915843ec-acfe-4a3f-9a65-0e2d91caa297)
+![WhatsApp Image 2025-05-13 at 3 32 04 PM (2)](https://github.com/user-attachments/assets/310c9388-cc07-43b2-9f26-e4c8c66d43d4)
+![WhatsApp Image 2025-05-13 at 3 32 05 PM (1)](https://github.com/user-attachments/assets/5eafc355-a66a-45c4-b79f-32528303b740)
+![WhatsApp Image 2025-05-13 at 3 31 22 PM](https://github.com/user-attachments/assets/c1be36f8-9e79-4197-b349-f26bf3299146)
+![WhatsApp Image 2025-05-13 at 3 31 20 PM](https://github.com/user-attachments/assets/1b6f0587-085d-4dd8-8974-d03c4fb51c1c)
+![WhatsApp Image 2025-05-13 at 3 31 27 PM (1)](https://github.com/user-attachments/assets/8d94f480-217d-4a91-b1af-77fc14e3e291)
+![WhatsApp Image 2025-05-13 at 3 31 27 PM](https://github.com/user-attachments/assets/d372e19d-3ec5-4426-8b70-3c3e8df2be1d)
 
-Imagine a visually appealing layout for the user panel with sections for:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div><img src="https://github.com/user-attachments/assets/b96888c6-6d67-4949-91bc-0a0ada3db748" width="220" height="auto" style="margin: 5px;"><div>Home Screen (Food Browsing)</div></div>
-  <div><img src="https://github.com/user-attachments/assets/9bb2dd1c-a2b4-4715-832f-008f8ec9cb11" width="220" height="auto" style="margin: 5px;"><div>Food Item Details</div></div>
-  <div><img src="https://github.com/user-attachments/assets/3b941133-d320-4471-b737-cccb5ab5c403" width="220" height="auto" style="margin: 5px;"><div>Shopping Cart</div></div>
-  <div><img src="https://github.com/user-attachments/assets/94757790-17b0-40bd-851d-d2a66002f820" width="220" height="auto" style="margin: 5px;"><div>Wishlist</div></div>
-  <div><img src="https://github.com/user-attachments/assets/0db66f04-388b-49dc-bfb4-131d284f0520" width="220" height="auto" style="margin: 5px;"><div>User Profile</div></div>
-  <div><img src="https://github.com/user-attachments/assets/b7cf11a6-f618-43e8-bac4-5e469f8653b4" width="220" height="auto" style="margin: 5px;"><div>Order History</div></div>
-</div>
+
+
 
 ## admin panel features 🛠️
 
@@ -88,24 +97,16 @@ This section outlines potential models for food recommendations within the Fodie
 * **Recommendation:** For Fodie Basket BEATS, if a user has frequently ordered Italian food with cheese, a content-based system would recommend other Italian dishes or cheesy items, even if other users haven't necessarily ordered those specific combinations.
 
 ## technologies used 🛠️
+* **Flutter:** 💙
+* **Dart:** <0xF0><0x9F><0xA7><0x84>
+* **Firebase:** 🔥
+* **Kaggle Notebook:** 📒
+* **VS Code:** 💻
+* **Android:** 🤖
 
-* **Flutter:** An open-source UI software development kit created by Google. It's used to develop cross-platform applications from a single codebase for web, mobile, desktop, and embedded devices. Flutter is known for its fast development with features like Hot Reload, its expressive and flexible UI, and its native performance.
-    * *Example:* You can build both the Android and iOS versions of this food delivery app using the same Flutter codebase.
-* **Dart:** The programming language that powers Flutter. Dart is an object-oriented, class-based language with C-style syntax. It's optimized for building fast apps on any platform and can compile to machine code, JavaScript, or WebAssembly.
-    * *Example:* All the logic for handling user interactions, managing the cart, and updating the UI in the Fodie Basket BEATS app would be written in Dart.
-* **Firebase:** Google's platform for building mobile and web applications. It provides various backend services like authentication, databases (Cloud Firestore, Realtime Database), storage, and more.
-    * *Example:* Firebase could be used for user authentication (login/signup), storing the food menu and order data (using Cloud Firestore), and storing images of the food items (using Cloud Storage).
-* **Kaggle Notebook:** A web-based environment that allows you to write and run code (primarily Python and R), analyze data, and collaborate. It's often used for data science and machine learning tasks.
-    * *Example:* Data scientists could use Kaggle Notebooks to prototype and train the recommendation models (NCF, Content-Based) using historical order data.
-* **VS Code (Visual Studio Code):** A popular and free source code editor developed by Microsoft. It supports a wide range of programming languages through extensions and offers features like debugging, syntax highlighting, and integrated Git control.
-    * *Example:* Developers would likely use VS Code to write the Flutter/Dart code for the front-end and potentially Python for backend recommendation logic.
-* **Android:** A mobile operating system based on a modified version of the Linux kernel and other open-source software, primarily designed for touchscreen mobile devices.
-    * *Example:* The user-facing part of the Fodie Basket BEATS app would run on Android devices, allowing users to browse and place orders.
-
-## contact
-
-let's connect!
-
-*(replace with relevant contact information if needed)*
-
-feel free to ask if you'd like any specific part elaborated further!
+## Contact
+Let's connect!
+* **LinkedIn:** (https://www.linkedin.com/in/summyia-fatima-274787311/) 🔗
+* **WhatsApp:** [Chat on WhatsApp]([https://wa.me/your_phone_number](https://api.whatsapp.com/message/4EISLMWQEEP5H1?autoload=1&app_absent=0) 💬 
+* **Gmail:** (summyiawork@gmail.com) 📧
+**Feel free to explore the code and get in touch if you have any questions or feedback!**  💬  I'm always open to collaboration and learning.  🤝
