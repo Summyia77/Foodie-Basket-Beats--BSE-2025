@@ -38,7 +38,15 @@ this app features two distinct panels:
 ![WhatsApp Image 2025-05-13 at 3 31 27 PM (1)](https://github.com/user-attachments/assets/8d94f480-217d-4a91-b1af-77fc14e3e291)
 ![WhatsApp Image 2025-05-13 at 3 31 27 PM](https://github.com/user-attachments/assets/d372e19d-3ec5-4426-8b70-3c3e8df2be1d)
 
-
+![t](https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677)
+![Capture](https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d)
+![g](https://github.com/user-attachments/assets/67aedc23-dde4-4ced-8b65-a4358a868bf8)
+![h8](https://github.com/user-attachments/assets/29363dd0-55c9-4de8-98c2-4652bc43a842)
+![uc](https://github.com/user-attachments/assets/09ba444c-8313-490b-8fe7-90ad3667736b)
+![ujc](https://github.com/user-attachments/assets/7e29bee0-6898-4d83-8d57-4edf117c0b91)
+![Captureygvi8](https://github.com/user-attachments/assets/7ebdb84b-75bf-4090-8986-219a37cc7490)
+![opi](https://github.com/user-attachments/assets/6acec3a5-5241-4969-84e1-47b2c5151068)
+![yigvu](https://github.com/user-attachments/assets/90357ab1-2d44-455a-a519-1e5d8c7f6be4)
 
 
 
