@@ -21,42 +21,33 @@ this app features two distinct panels:
 * **logout:** securely sign out of your user account.
 
 ## user panel user interface 📸
-![t](https://github.com/user-attachments/assets/f991c6f9-8198-4743-8539-69513c9ae316)
-![Capture](https://github.com/user-attachments/assets/f8d71b9d-448c-45a8-9360-a0b5c6fce1c6)
-![g](https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677)
-![h8](https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d)
-![uc](https://github.com/user-attachments/assets/bcefabc4-bb26-4c32-a794-5c5448a89b46)
-![ujc](https://github.com/user-attachments/assets/c3a020f1-8a9f-42ba-b7a7-0e5d73aca1f8)
-![Captureygvi8](https://github.com/user-attachments/assets/dfbab4d9-8fb7-413e-bcdf-1f77ebbd591d)
-![opi](https://github.com/user-attachments/assets/86674a23-b9a3-42c8-884c-17bdce7f54fa)
-![yigvu](https://github.com/user-attachments/assets/e48abe1d-18af-4573-8fdb-6ce9a9d0dc37)
-(https://github.com/user-attachments/assets/915843ec-acfe-4a3f-9a65-0e2d91caa297)
-(https://github.com/user-attachments/assets/310c9388-cc07-43b2-9f26-e4c8c66d43d4)
-(https://github.com/user-attachments/assets/5eafc355-a66a-45c4-b79f-32528303b740)
-(https://github.com/user-attachments/assets/c1be36f8-9e79-4197-b349-f26bf3299146)
-(https://github.com/user-attachments/assets/1b6f0587-085d-4dd8-8974-d03c4fb51c1c)
-(https://github.com/user-attachments/assets/8d94f480-217d-4a91-b1af-77fc14e3e291)
-(https://github.com/user-attachments/assets/d372e19d-3ec5-4426-8b70-3c3e8df2be1d)
-t
-Capture
-g
-h8
-uc
-ujc
-Captureygvi8
-opi
-yigvu
-![t](https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677)
-![Capture](https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d)
-![g](https://github.com/user-attachments/assets/67aedc23-dde4-4ced-8b65-a4358a868bf8)
-![h8](https://github.com/user-attachments/assets/29363dd0-55c9-4de8-98c2-4652bc43a842)
-![uc](https://github.com/user-attachments/assets/09ba444c-8313-490b-8fe7-90ad3667736b)
-![ujc](https://github.com/user-attachments/assets/7e29bee0-6898-4d83-8d57-4edf117c0b91)
-![Captureygvi8](https://github.com/user-attachments/assets/7ebdb84b-75bf-4090-8986-219a37cc7490)
-![opi](https://github.com/user-attachments/assets/6acec3a5-5241-4969-84e1-47b2c5151068)
-![yigvu](https://github.com/user-attachments/assets/90357ab1-2d44-455a-a519-1e5d8c7f6be4)
 
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f991c6f9-8198-4743-8539-69513c9ae316" alt="Image 1" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/f8d71b9d-448c-45a8-9360-a0b5c6fce1c6" alt="Image 2" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677" alt="Image 3" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d" alt="Image 4" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/bcefabc4-bb26-4c32-a794-5c5448a89b46" alt="Image 5" width="150"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c3a020f1-8a9f-42ba-b7a7-0e5d73aca1f8" alt="Image 6" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/dfbab4d9-8fb7-413e-bcdf-1f77ebbd591d" alt="Image 7" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/86674a23-b9a3-42c8-884c-17bdce7f54fa" alt="Image 8" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/e48abe1d-18af-4573-8fdb-6ce9a9d0dc37" alt="Image 9" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/915843ec-acfe-4a3f-9a65-0e2d91caa297" alt="Image 10" width="150"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/310c9388-cc07-43b2-9f26-e4c8c66d43d4" alt="Image 11" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/5eafc355-a66a-45c4-b79f-32528303b740" alt="Image 12" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/c1be36f8-9e79-4197-b349-f26bf3299146" alt="Image 13" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/1b6f0587-085d-4dd8-8974-d03c4fb51c1c" alt="Image 14" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/8d94f480-217d-4a91-b1af-77fc14e3e291" alt="Image 15" width="150"></td>
+  </tr>
+  <tr>
+    <td colspan="5"><img src="https://github.com/user-attachments/assets/d372e19d-3ec5-4426-8b70-3c3e8df2be1d" alt="Image 16" width="150"></td>
+  </tr>
+</table>
 
 ## admin panel features 🛠️
 
@@ -69,15 +60,19 @@ yigvu
 * **view feedback:** read and manage the feedback provided by users. 💬
 
 ## admin panel user interface 📸
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e99353d0-32f5-4d28-97f5-662cc308bc88" alt="WhatsApp Image 2025-05-13 at 6 35 35 PM" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/ba9918a8-844c-4743-a5cb-3bc07f79e014" alt="WhatsApp Image 2025-05-13 at 6 54 57 PM" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/4b39c430-8c86-4cc4-a421-9d25141ea7c6" alt="WhatsApp Image 2025-05-13 at 6 54 56 PM" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/e643dd0d-6468-4042-aaa6-5eccc0c004df" alt="WhatsApp Image 2025-05-13 at 6 54 50 PM" width="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/8a1b1dc7-d614-4cec-a747-a3b9a631db85" alt="WhatsApp Image 2025-05-13 at 6 54 51 PM (1)" width="150"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6160bccd-d5a0-4397-bed4-be55a144ecd6" alt="WhatsApp Image 2025-05-13 at 6 54 51 PM" width="150"></td>
 
-Imagine a clean and efficient layout for the admin panel with sections for:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div><img src="https://github.com/user-attachments/assets/67c719fd-2778-4069-a411-b04bc5b7a9ad" width="220" height="auto" style="margin: 5px;"><div>Food Item List</div></div>
-  <div><img src="https://github.com/user-attachments/assets/29ec0f97-10d0-4990-8e55-f0f8d0c23636" width="220" height="auto" style="margin: 5px;"><div>Add/Edit Food Item</div></div>
-  <div><img src="https://github.com/user-attachments/assets/58830ac4-7b4e-4e3d-931c-b30fd96ce8b9" width="220" height="auto" style="margin: 5px;"><div>Order Management</div></div>
-  <div><img src="https://github.com/user-attachments/assets/205fb8f3-98c8-4e0e-877e-c52d267aa814" width="220" height="auto" style="margin: 5px;"><div>View Feedback</div></div>
-</div>
+  </tr>
+</table>
 
 ## how to use 🚀
 
