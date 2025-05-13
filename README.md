@@ -109,7 +109,7 @@ This section outlines potential models for food recommendations within the Fodie
 
 ## technologies used 🛠️
 * **Flutter:** 💙
-* **Dart:** <0xF0><0x9F><0xA7><0x84>
+* **Dart:**
 * **Firebase:** 🔥
 * **Kaggle Notebook:** 📒
 * **VS Code:** 💻
