@@ -21,23 +21,31 @@ this app features two distinct panels:
 * **logout:** securely sign out of your user account.
 
 ## user panel user interface 📸
-![WhatsApp Image 2025-05-13 at 3 32 03 PM](https://github.com/user-attachments/assets/f991c6f9-8198-4743-8539-69513c9ae316)
-![WhatsApp Image 2025-05-13 at 3 32 04 PM](https://github.com/user-attachments/assets/f8d71b9d-448c-45a8-9360-a0b5c6fce1c6)
-![WhatsApp Image 2025-05-13 at 3 32 02 PM](https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677)
-![WhatsApp Image 2025-04-28 at 11 18 21 PM](https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d)
-![WhatsApp Image 2025-05-13 at 3 31 28 PM](https://github.com/user-attachments/assets/bcefabc4-bb26-4c32-a794-5c5448a89b46)
-![WhatsApp Image 2025-05-13 at 4 10 57 PM (1)](https://github.com/user-attachments/assets/c3a020f1-8a9f-42ba-b7a7-0e5d73aca1f8)
-![WhatsApp Image 2025-05-13 at 3 31 27 PM (2)](https://github.com/user-attachments/assets/dfbab4d9-8fb7-413e-bcdf-1f77ebbd591d)
-![WhatsApp Image 2025-05-13 at 3 32 07 PM (1)](https://github.com/user-attachments/assets/86674a23-b9a3-42c8-884c-17bdce7f54fa)
-![WhatsApp Image 2025-05-13 at 3 31 24 PM](https://github.com/user-attachments/assets/e48abe1d-18af-4573-8fdb-6ce9a9d0dc37)
-![WhatsApp Image 2025-05-13 at 3 32 05 PM](https://github.com/user-attachments/assets/915843ec-acfe-4a3f-9a65-0e2d91caa297)
-![WhatsApp Image 2025-05-13 at 3 32 04 PM (2)](https://github.com/user-attachments/assets/310c9388-cc07-43b2-9f26-e4c8c66d43d4)
-![WhatsApp Image 2025-05-13 at 3 32 05 PM (1)](https://github.com/user-attachments/assets/5eafc355-a66a-45c4-b79f-32528303b740)
-![WhatsApp Image 2025-05-13 at 3 31 22 PM](https://github.com/user-attachments/assets/c1be36f8-9e79-4197-b349-f26bf3299146)
-![WhatsApp Image 2025-05-13 at 3 31 20 PM](https://github.com/user-attachments/assets/1b6f0587-085d-4dd8-8974-d03c4fb51c1c)
-![WhatsApp Image 2025-05-13 at 3 31 27 PM (1)](https://github.com/user-attachments/assets/8d94f480-217d-4a91-b1af-77fc14e3e291)
-![WhatsApp Image 2025-05-13 at 3 31 27 PM](https://github.com/user-attachments/assets/d372e19d-3ec5-4426-8b70-3c3e8df2be1d)
-
+![t](https://github.com/user-attachments/assets/f991c6f9-8198-4743-8539-69513c9ae316)
+![Capture](https://github.com/user-attachments/assets/f8d71b9d-448c-45a8-9360-a0b5c6fce1c6)
+![g](https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677)
+![h8](https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d)
+![uc](https://github.com/user-attachments/assets/bcefabc4-bb26-4c32-a794-5c5448a89b46)
+![ujc](https://github.com/user-attachments/assets/c3a020f1-8a9f-42ba-b7a7-0e5d73aca1f8)
+![Captureygvi8](https://github.com/user-attachments/assets/dfbab4d9-8fb7-413e-bcdf-1f77ebbd591d)
+![opi](https://github.com/user-attachments/assets/86674a23-b9a3-42c8-884c-17bdce7f54fa)
+![yigvu](https://github.com/user-attachments/assets/e48abe1d-18af-4573-8fdb-6ce9a9d0dc37)
+(https://github.com/user-attachments/assets/915843ec-acfe-4a3f-9a65-0e2d91caa297)
+(https://github.com/user-attachments/assets/310c9388-cc07-43b2-9f26-e4c8c66d43d4)
+(https://github.com/user-attachments/assets/5eafc355-a66a-45c4-b79f-32528303b740)
+(https://github.com/user-attachments/assets/c1be36f8-9e79-4197-b349-f26bf3299146)
+(https://github.com/user-attachments/assets/1b6f0587-085d-4dd8-8974-d03c4fb51c1c)
+(https://github.com/user-attachments/assets/8d94f480-217d-4a91-b1af-77fc14e3e291)
+(https://github.com/user-attachments/assets/d372e19d-3ec5-4426-8b70-3c3e8df2be1d)
+t
+Capture
+g
+h8
+uc
+ujc
+Captureygvi8
+opi
+yigvu
 ![t](https://github.com/user-attachments/assets/7d3b24ab-e744-4b90-992a-bfffb7c3e677)
 ![Capture](https://github.com/user-attachments/assets/70a02076-cfdd-4c17-b99d-96a10282213d)
 ![g](https://github.com/user-attachments/assets/67aedc23-dde4-4ced-8b65-a4358a868bf8)
